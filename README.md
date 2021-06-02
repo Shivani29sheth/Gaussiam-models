@@ -5,7 +5,7 @@ In this project, we create and compare two Gaussian based models, namely Multiva
 ## Multivariate Gaussian models
 
 Description:
-A simple classifier using multivariate Gaussian models. Each class in the data is modeled by a single 3D Gaussian distribution.
+Implemented a simple classifier using multivariate Gaussian models. Each class in the data is modeled by a single 3D Gaussian distribution.
 
 Two different structures for the covariance matrices are considered for the model, which are:
 
